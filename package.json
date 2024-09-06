@@ -27,6 +27,9 @@
     "@nestjs/websockets": "^10.4.1",
     "class-transformer": "^0.5.1",
     "class-validator": "^0.14.1",
+    "cli-table3": "^0.6.5",
+    "konva": "^9.3.14",
+    "react-konva": "^18.2.10",
     "reflect-metadata": "^0.2.0",
     "rxjs": "^7.8.1",
     "socket.io": "^4.7.5"
